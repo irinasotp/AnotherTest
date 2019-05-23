@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="server">SERVER</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="client">CLIENT</string>
+    <string name="client_address">Address</string>
+    <string name="client_port">Port</string>
+    <string name="information_type">Information Type</string>
+    <string name="get">Get</string>
+    <string-array name="information_types">
+        <item>EUR</item>
+        <item>USD</item>
+    </string-array>
+</resources>
